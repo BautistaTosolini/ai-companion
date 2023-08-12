@@ -44,7 +44,7 @@ const ChatMessages = ({ messages = [], isLoading, companion }: ChatMessagesProps
             key={message.content}
             role={message.role}
             content={message.content}
-            src={message.src}
+            src={companion.src}
           />
         )
       })}
