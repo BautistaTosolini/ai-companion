@@ -1,3 +1,6 @@
+Companion AI Softare as a Service its a project where you can create your own companion using plain text and then chat with him or you can chat with those who are already created by others.
+
+HOW TO RUN THE PROJECT:
 Move to root directory and then npm install
 
 Set up your enviroment variables:
